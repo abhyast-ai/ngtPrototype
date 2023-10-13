@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>icar13.jpg</filename>
+	<path>C:\Users\abhyasttripathi\Downloads\indianCars\images\icar13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>370</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license-plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>168</ymin>
+			<xmax>239</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>
