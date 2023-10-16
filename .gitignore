@@ -6,9 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore specific file extensions
+*.avi
+*.mp4
+*.jpeg
+# Add more file extensions here
+
+
 # Distribution / packaging
 .Python
-custom_dataset/
+**/custom_dataset/
 build/
 develop-eggs/
 dist/

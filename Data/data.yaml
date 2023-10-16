@@ -1,0 +1,7 @@
+path: C:\Users\abhyasttripathi\workspace\git-abhyast\ngtPrototype/data/custom_dataset/  # Path to your dataset directory
+train: train  # Subdirectory containing training images
+val: test  # Subdirectory containing validation images
+nc: 1  # Number of classes, in this case, 1 for "license_plate"
+names: ['license_plate']  # Class name(s), which is just "license_plate" in your case
+
+   
